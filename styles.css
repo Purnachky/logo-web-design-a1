@@ -140,7 +140,14 @@ main{
 
 /*get-in-touch  styles*/
 .get-in-touch{
-    padding: 71px 150px;
+    display: flex;
+    gap:115px;
+    justify-content: center;
+}
+h3{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
 }
 
 /*footer styles*/
